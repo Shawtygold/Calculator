@@ -17,5 +17,8 @@ Calculator current version:
  - Visual Studio platform `x64`
  - .Net `6.0`
 
+### 📸 Screenshot
+![Scrennshot](https://github.com/Shawtygold/Calculator/blob/master/Screenshot.jpg)
+
  ### 🤝 Support me
  - Please leave me a star if you like it. Thank you very much! 
