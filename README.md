@@ -1,6 +1,6 @@
 ### :pencil: About this project
 - This project was created by [shawtygold](https://github.com/Shawtygold).
-- This repository is my course project and perhaps it will be updated as new ideas become available :)
+- This repository is my course project :)
 
 Calculator current version: 
 - Version - `1.0`
